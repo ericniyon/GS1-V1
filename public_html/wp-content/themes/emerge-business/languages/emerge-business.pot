@@ -1,0 +1,268 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-17 18:29+0545\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions.php:113
+msgid "Welcome to the"
+msgstr ""
+
+#: functions.php:114
+msgid "is now installed and ready to use."
+msgstr ""
+
+#: functions.php:117
+msgid "-pro"
+msgstr ""
+
+#: functions.php:117
+msgid "Buy Pro"
+msgstr ""
+
+#: functions.php:118
+msgid "Theme Info"
+msgstr ""
+
+#: inc/filters.php:18
+msgctxt "Used if posts or pages has no title"
+msgid "(No title)"
+msgstr ""
+
+#: inc/register-block-patterns.php:25
+msgid "Theme patterns"
+msgstr ""
+
+#: inc/register-block-styles.php:22
+msgid "Flat button"
+msgstr ""
+
+#: inc/register-block-styles.php:30
+msgid "Underlined list items"
+msgstr ""
+
+#: inc/register-block-styles.php:38 inc/register-block-styles.php:46
+#: inc/register-block-styles.php:54
+msgid "Box shadow"
+msgstr ""
+
+#: inc/register-block-styles.php:62
+msgid "Plus & minus"
+msgstr ""
+
+#: patterns/callback.php:17
+msgid "Stay Connected! Subscribe For The Latest Updates"
+msgstr ""
+
+#: patterns/callback.php:24
+msgid "Subscribe Now"
+msgstr ""
+
+#: patterns/columns-with-images.php:20 patterns/columns-with-images.php:26
+#: patterns/columns-with-images.php:38
+msgctxt "sample content"
+msgid "Sample content. Replace the text with your own content."
+msgstr ""
+
+#: patterns/comments.php:17
+msgid "Comments"
+msgstr ""
+
+#: patterns/hero.php:18
+msgid "Digital Innovation"
+msgstr ""
+
+#: patterns/hero.php:23
+msgid "Crafting Solutions For Your Marketing"
+msgstr ""
+
+#: patterns/hero.php:27
+msgid ""
+"Collaboratively disintermediate move to impacter compellingly web "
+"architectures."
+msgstr ""
+
+#: patterns/hero.php:32
+msgid "Get Consultant"
+msgstr ""
+
+#: patterns/hidden-404.php:25
+msgid "Page not found"
+msgstr ""
+
+#: patterns/hidden-404.php:30
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: patterns/hidden-footer-links.php:21
+#, php-format
+msgid "Copyright %s. "
+msgstr ""
+
+#: patterns/hidden-footer-links.php:22
+msgctxt "copyright date format"
+msgid "Y"
+msgstr ""
+
+#: patterns/hidden-footer-links.php:24
+msgid "All right reserved."
+msgstr ""
+
+#: patterns/hidden-post-meta.php:21
+msgid "Categories: "
+msgstr ""
+
+#: patterns/latest-posts.php:15
+msgid "Recent Blogs"
+msgstr ""
+
+#: patterns/latest-posts.php:19
+msgid "Checkout Our Latest Insights &amp; Blogs"
+msgstr ""
+
+#: patterns/portfolio.php:15
+msgid "Latest Projects"
+msgstr ""
+
+#: patterns/portfolio.php:19
+msgid "Our Success Stories"
+msgstr ""
+
+#: patterns/portfolio.php:32
+msgid "Audience Targeting"
+msgstr ""
+
+#: patterns/portfolio.php:46
+msgid "Customer Retention"
+msgstr ""
+
+#: patterns/portfolio.php:60
+msgid "Partnership Program"
+msgstr ""
+
+#: patterns/portfolio.php:76
+msgid "Influencer Outreach"
+msgstr ""
+
+#: patterns/portfolio.php:90
+msgid "Creative Branding"
+msgstr ""
+
+#: patterns/portfolio.php:104
+msgid "Network Collaboration"
+msgstr ""
+
+#: patterns/pricing.php:17
+msgid "Our Pricing"
+msgstr ""
+
+#: patterns/pricing.php:21
+msgid "Reasonable Pricing For Services"
+msgstr ""
+
+#: patterns/pricing.php:25
+msgid ""
+"Incidunt tempore, purus auctor, suscipit turpis viverra dolores cupidatat "
+"amet wisi mus! Hic, lorem, Felis sapien. Pellentesque quod montes."
+msgstr ""
+
+#: patterns/pricing.php:32
+msgid "85%"
+msgstr ""
+
+#: patterns/pricing.php:36
+msgid "Project Success Rate"
+msgstr ""
+
+#: patterns/pricing.php:42
+msgid "12k+"
+msgstr ""
+
+#: patterns/pricing.php:46
+msgid "Total Joined Members"
+msgstr ""
+
+#: patterns/pricing.php:57
+msgid "MONTHLY PLAN"
+msgstr ""
+
+#: patterns/pricing.php:61
+msgid "$48.99"
+msgstr ""
+
+#: patterns/pricing.php:65
+msgid "Business Plan"
+msgstr ""
+
+#: patterns/pricing.php:72 patterns/pricing.php:114
+msgid "Accusamus nec voluptatibus."
+msgstr ""
+
+#: patterns/pricing.php:76 patterns/pricing.php:118
+msgid "Molestie ante, lobortis."
+msgstr ""
+
+#: patterns/pricing.php:80 patterns/pricing.php:122
+msgid "Tenetur cupidatat similique."
+msgstr ""
+
+#: patterns/pricing.php:84 patterns/pricing.php:126
+msgid "Magna ullamcorper asex."
+msgstr ""
+
+#: patterns/pricing.php:90 patterns/pricing.php:140
+msgid "Choose A Plan"
+msgstr ""
+
+#: patterns/pricing.php:99
+msgid "YEARLY PLAN"
+msgstr ""
+
+#: patterns/pricing.php:103
+msgid "$120.69"
+msgstr ""
+
+#: patterns/pricing.php:107
+msgid "Popular Plan"
+msgstr ""
+
+#: patterns/pricing.php:130
+msgid "Provident nisi pede dicta."
+msgstr ""
+
+#: patterns/pricing.php:134
+msgid "Dolorem aue porro arcu."
+msgstr ""
+
+#: patterns/query.php:44
+msgid "No results"
+msgstr ""
+
+#: patterns/services.php:26
+msgid "Strategic Planning"
+msgstr ""
+
+#: patterns/services.php:30 patterns/services.php:52 patterns/services.php:74
+msgid "We help a business generate new product ideas with intelligence."
+msgstr ""
+
+#: patterns/services.php:48
+msgid "Market Analysis"
+msgstr ""
+
+#: patterns/services.php:70
+msgid "Finance Planning"
+msgstr ""
