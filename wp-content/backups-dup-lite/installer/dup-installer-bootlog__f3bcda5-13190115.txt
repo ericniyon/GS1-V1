@@ -1,0 +1,36 @@
+[May 13 19:19:06] 
+[May 13 19:19:06] ==DUPLICATOR INSTALLER BOOTSTRAP v1.5.12==
+[May 13 19:19:06] ----------------------------------------------------
+[May 13 19:19:06] Installer bootstrap start
+[May 13 19:19:06] Ready to extract the installer
+[May 13 19:19:06] Checking permission of destination folder
+[May 13 19:19:06] Expand directory from offset 86900367
+[May 13 19:19:07] SAPI: litespeed
+[May 13 19:19:07] creating /home/bir.vinisystems.com/public_html/dup-installer/.user.ini with the content:
+[May 13 19:19:07] max_execution_time = 3600
+max_input_time = -1
+ignore_user_abort = On
+post_max_size = 4096M
+upload_max_filesize = 4096M
+memory_limit = 4294967296
+default_socket_timeout = 3600
+pcre.backtrack_limit = 99999999999
+[May 13 19:19:07] Set permissions of dup-installer<br/>
+[May 13 19:19:07] Set permissions of dup-installer/addons<br/>
+[May 13 19:19:07] Set permissions of dup-installer/assets<br/>
+[May 13 19:19:07] Set permissions of dup-installer/classes<br/>
+[May 13 19:19:07] Set permissions of dup-installer/ctrls<br/>
+[May 13 19:19:07] Set permissions of dup-installer/favicon<br/>
+[May 13 19:19:07] Set permissions of dup-installer/libs<br/>
+[May 13 19:19:07] Set permissions of dup-installer/original_files_[HASH]<br/>
+[May 13 19:19:07] Set permissions of dup-installer/src<br/>
+[May 13 19:19:07] Set permissions of dup-installer/templates<br/>
+[May 13 19:19:07] Set permissions of dup-installer/vendor<br/>
+[May 13 19:19:07] Set permissions of dup-installer/.user.ini<br/>
+[May 13 19:19:07] Set permissions of dup-installer/dup-archive__[HASH].txt<br/>
+[May 13 19:19:07] Set permissions of dup-installer/dup-scan__[HASH].json<br/>
+[May 13 19:19:07] Set permissions of dup-installer/dup-scanned-dirs__[HASH].txt<br/>
+[May 13 19:19:07] Set permissions of dup-installer/dup-scanned-files__[HASH].txt<br/>
+[May 13 19:19:07] Set permissions of dup-installer/index.php<br/>
+[May 13 19:19:07] Set permissions of dup-installer/main.installer.php<br/>
+[May 13 19:19:07] DONE: No detected errors so redirecting to the main installer. Main Installer URI = http://bir.vinisystems.com/dup-installer/main.installer.php
