@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<metaFile>
+  <VERSION>2.3</VERSION>
+  <BUILD>2</BUILD>
+  <masterDomain>bir.vinisystems.com</masterDomain>
+  <phpSelection>PHP 8.1</phpSelection>
+  <externalApp>birvi8572</externalApp>
+  <userName>admin</userName>
+  <userPassword>772303da3ef438b88a5cf5fad2ae8535a6921b62dc54dac2eddb48d0703f2b87:5fb20a106a8c4b29b6bb73a656bf6c49</userPassword>
+  <firstName>Cyber</firstName>
+  <lastName>Panel</lastName>
+  <email>example@example.org</email>
+  <type>1</type>
+  <owner>1</owner>
+  <token>Basic YWRtaW46UnFnIzpwbzglNHM/VXk4</token>
+  <api>0</api>
+  <securityLevel>0</securityLevel>
+  <state>ACTIVE</state>
+  <initWebsitesLimit>0</initWebsitesLimit>
+  <aclName>admin</aclName>
+  <ChildDomains/>
+  <Databases>
+    <database>
+      <dbName>bir_initiativerwanda</dbName>
+      <databaseUsers>
+        <dbUser>bir_admin</dbUser>
+        <dbHost>localhost</dbHost>
+        <password>*9A610B5122CB65A56ECE67EECFF4FAB2AEE4F347</password>
+      </databaseUsers>
+    </database>
+  </Databases>
+  <Aliases/>
+</metaFile>
